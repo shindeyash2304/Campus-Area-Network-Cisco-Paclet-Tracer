@@ -1,4 +1,4 @@
-# Campus-Area-Network-Cisco-Paclet-Tracer
+# Campus-Area-Network-Cisco-Packet-Tracer
 Network topology analysis and security assessment using Cisco Packet Tracer
 
 ![yashpkt](https://github.com/user-attachments/assets/8a947be6-a917-4983-b426-6fa4b31ba2d3)
